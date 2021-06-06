@@ -1,4 +1,4 @@
 module.exports = {
-    url: "mongodb://localhost:27017/myDB"
-  };
+  url: "mongodb+srv://dong:dong@cluster0.ijlaa.mongodb.net/myDB"
+};
   
